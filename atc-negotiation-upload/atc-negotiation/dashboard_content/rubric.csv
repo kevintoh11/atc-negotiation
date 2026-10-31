@@ -1,0 +1,7 @@
+criterion,weight_pct,judges_look_for,where_in_dashboard
+Problem realism,20,A named user and a clear status quo,Overview: who it is for and what happens today
+Technical soundness,25,"Works end to end; language models only where they fit, code for safety and scheduling",Overview: how it works; Live
+Honest evaluation,20,"A baseline, measured results and a visible failure case","Evaluation: today's process vs negotiated, like-for-like, where it does worse"
+Trust and traceability,20,"Evidence visible, uncertainty handled, the human decides","Live and Replays: checker notices, hash chain, briefing for sign-off; Rules & limits"
+Impact,10,Measured or reasoned improvement over today,Evaluation: outcome tiles
+Time discipline,5,Early submission and a 3-minute presentation,Not in the dashboard: the team's submission and pitch

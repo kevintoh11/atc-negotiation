@@ -1,0 +1,6 @@
+pandas>=2.0
+pydantic>=2.5
+anthropic>=0.40
+streamlit>=1.40
+pytest>=8.0
+openpyxl>=3.1
